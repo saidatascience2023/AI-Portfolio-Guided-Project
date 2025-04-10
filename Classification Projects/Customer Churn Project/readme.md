@@ -1,3 +1,6 @@
+
+![README](https://github.com/saidatascience2023/DataScienceGuidedProject/blob/main/Classification%20Projects/Customer%20Churn%20Project/images/churn.jpeg)
+
 ## Customer Churn Prediction Project
 
 This project aims to predict customer churn using machine learning techniques. Churn refers to customers who stop doing business with a company. By identifying such customers in advance, businesses can take proactive steps to retain them.
