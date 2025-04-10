@@ -16,7 +16,7 @@ Customer account information – how long they’ve been a customer, contract, p
 
 Demographic info about customers – gender, age range, and if they have partners and dependents
 
-## Problem Statement or Goal 
+### Problem Statement or Goal 
 
 Telecom and subscription-based companies often face the challenge of losing customers. This project builds a predictive model that classifies customers as **churned** or **not churned** based on their behavior and demographic data.
 
