@@ -164,6 +164,8 @@ But, improving recall for churn would make it more useful for reducing actual cu
 
 ### Contact Information
 SAI DataScience
+
 Email: contact@saidatascience.com
-LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/company/saidatascience/)
+
+LinkedIn: https://www.linkedin.com/company/saidatascience/
 
