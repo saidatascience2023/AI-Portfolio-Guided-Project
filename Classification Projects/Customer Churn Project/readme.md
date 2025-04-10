@@ -162,3 +162,8 @@ But, improving recall for churn would make it more useful for reducing actual cu
 
 4. Integrate feedback loop for model improvement
 
+### Contact Information
+SAI DataScience
+Email: contact@saidatascience.com
+LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/company/saidatascience/)
+
