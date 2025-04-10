@@ -90,6 +90,9 @@ Telecom and subscription-based companies often face the challenge of losing cust
 
 ### Insights from Data Analysis
 
+**Univariate Analysis :** Checking the Distribution of the Single Feature or Imbalance of the DataSet.
+
+
 
 ### Model Performance
 
