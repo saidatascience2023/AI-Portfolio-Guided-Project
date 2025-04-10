@@ -111,7 +111,29 @@ Telecom and subscription-based companies often face the challenge of losing cust
 5. ROC-AUC: 0.88
 
 ### Confusion Matrix Explanation
+This matrix summarizes the performance of your Customer Churn Prediction model, likely using a Random Forest Classifier.
 
+
+**Interpretation of Each Cell**
+True Negatives (TN): 887
+Customers who did not churn, and the model correctly predicted No Churn.
+
+False Positives (FP): 149
+Customers who did not churn, but the model incorrectly predicted Churn.
+⚠️ May lead to unnecessary retention efforts.
+
+False Negatives (FN): 156
+Customers who did churn, but the model predicted No Churn.
+⚠️ These are risky, as the model misses customers who actually left.
+
+True Positives (TP): 217
+Customers who did churn, and the model correctly predicted Churn.
+
+**Performance Insight**
+The model is good at identifying non-churners (TN = 887) and a decent number of churners (TP = 217).
+However, there are 149 false alarms (FP) and 156 misses (FN), which could be improved with further model tuning or better features.
+
+![README](https://github.com/saidatascience2023/DataScienceGuidedProject/blob/main/Classification%20Projects/Customer%20Churn%20Project/images/Random-Forest-Classifier-Customer_Churn-ipynb-Colab-04-10-2025_05_31_PM.png)
 
 ### Technologies Used
 
