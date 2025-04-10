@@ -94,7 +94,9 @@ Telecom and subscription-based companies often face the challenge of losing cust
 
 ![README](https://github.com/saidatascience2023/DataScienceGuidedProject/blob/main/Classification%20Projects/Customer%20Churn%20Project/images/Random-Forest-Classifier-Customer_Churn-ipynb-Colab-04-10-2025_04_58_PM.png)
 
-**Bivariate Analysis :** Check the relationship between the Churn and Tenure.
+**Bivariate Analysis :** Check the relationship between the Churn and Tenure.Analyzing how the length of time a customer has been with a company (Tenure) affects the likelihood of that customer leaving the company (Churn).
+
+![README](https://github.com/saidatascience2023/DataScienceGuidedProject/blob/main/Classification%20Projects/Customer%20Churn%20Project/images/Random-Forest-Classifier-Customer_Churn-ipynb-Colab-04-10-2025_05_27_PM.png)
 
 ### Model Performance
 
