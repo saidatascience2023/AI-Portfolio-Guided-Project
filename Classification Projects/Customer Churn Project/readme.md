@@ -16,6 +16,48 @@ Customer account information – how long they’ve been a customer, contract, p
 
 Demographic info about customers – gender, age range, and if they have partners and dependents
 
+**customerID**A unique identifier for each customer.
+
+**gender:** The gender of the customer (Male/Female).
+
+**SeniorCitizen:** Indicates whether the customer is a senior citizen (1: Yes, 0: No).
+
+**Partner:** Indicates whether the customer has a partner (Yes/No).
+
+**Dependents:** Indicates whether the customer has dependents (Yes/No).
+
+**tenure:** The number of months the customer has been with the company.
+
+**PhoneService:** Indicates whether the customer has phone service (Yes/No).
+
+**MultipleLines:** Indicates whether the customer has multiple lines (Yes/No).
+
+**InternetService:** The type of internet service the customer has (DSL/Fiber optic/No).
+
+**OnlineSecurity:** Indicates whether the customer has online security (Yes/No).
+
+**OnlineBackup:** Indicates whether the customer has online backup service (Yes/No).
+
+**DeviceProtection:** Indicates whether the customer has device protection (Yes/No).
+
+**TechSupport:** Indicates whether the customer has tech support service (Yes/No).
+
+**StreamingTV:** Indicates whether the customer has streaming TV service (Yes/No).
+
+**StreamingMovies:** Indicates whether the customer has streaming movies service (Yes/No).
+
+**Contract:** The type of contract the customer has (Month-to-month/One year/Two year).
+
+**PaperlessBilling:** Indicates whether the customer has paperless billing (Yes/No).
+
+PaymentMethod: The method the customer uses to pay (Electronic check/Mailed check/Bank transfer/credit card).
+
+**MonthlyCharges:** The amount charged to the customer each month.
+
+**TotalCharges:** The total amount charged to the customer during their tenure.
+
+**Churn**Indicates whether the customer has churned (1: Yes, 0: No).
+
 ### Problem Statement or Goal 
 
 Telecom and subscription-based companies often face the challenge of losing customers. This project builds a predictive model that classifies customers as **churned** or **not churned** based on their behavior and demographic data.
@@ -45,6 +87,9 @@ Telecom and subscription-based companies often face the challenge of losing cust
 1. Clone the repository  
 2. git clone https://github.com//saidatascience2023/customer-churn-prediction.git
 3. cd customer-churn-prediction
+
+### Insights from Data Analysis
+
 
 ### Model Performance
 
