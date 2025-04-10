@@ -116,6 +116,7 @@ This matrix summarizes the performance of your Customer Churn Prediction model, 
 ![README](https://github.com/saidatascience2023/DataScienceGuidedProject/blob/main/Classification%20Projects/Customer%20Churn%20Project/images/Random-Forest-Classifier-Customer_Churn-ipynb-Colab-04-10-2025_05_31_PM.png)
 
 **Interpretation of Each Cell**
+
 True Negatives (TN): 887
 Customers who did not churn, and the model correctly predicted No Churn.
 
@@ -131,10 +132,9 @@ True Positives (TP): 217
 Customers who did churn, and the model correctly predicted Churn.
 
 **Performance Insight**
+
 The model is good at identifying non-churners (TN = 887) and a decent number of churners (TP = 217).
 However, there are 149 false alarms (FP) and 156 misses (FN), which could be improved with further model tuning or better features.
-
-![README](https://github.com/saidatascience2023/DataScienceGuidedProject/blob/main/Classification%20Projects/Customer%20Churn%20Project/images/Random-Forest-Classifier-Customer_Churn-ipynb-Colab-04-10-2025_05_31_PM.png)
 
 ### Technologies Used
 
