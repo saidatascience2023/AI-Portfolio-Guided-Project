@@ -72,11 +72,11 @@ Telecom and subscription-based companies often face the challenge of losing cust
 
 ### Future Enhancements
 
-Add deep learning models (e.g., ANN with TensorFlow)
+1. Add deep learning models (e.g., ANN with TensorFlow)
 
-Build an interactive dashboard
+2. Build an interactive dashboard
 
-Automate retraining with new data
+3. Automate retraining with new data
 
-Integrate feedback loop for model improvement
+4. Integrate feedback loop for model improvement
 
