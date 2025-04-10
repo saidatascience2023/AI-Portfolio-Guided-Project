@@ -113,6 +113,7 @@ Telecom and subscription-based companies often face the challenge of losing cust
 ### Confusion Matrix Explanation
 This matrix summarizes the performance of your Customer Churn Prediction model, likely using a Random Forest Classifier.
 
+![README](https://github.com/saidatascience2023/DataScienceGuidedProject/blob/main/Classification%20Projects/Customer%20Churn%20Project/images/Random-Forest-Classifier-Customer_Churn-ipynb-Colab-04-10-2025_05_31_PM.png)
 
 **Interpretation of Each Cell**
 True Negatives (TN): 887
