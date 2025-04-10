@@ -136,6 +136,10 @@ Customers who did churn, and the model correctly predicted Churn.
 The model is good at identifying non-churners (TN = 887) and a decent number of churners (TP = 217).
 However, there are 149 false alarms (FP) and 156 misses (FN), which could be improved with further model tuning or better features.
 
+**Business Takeaway**
+Your model can help proactively retain 217 churn-prone customers.
+But, improving recall for churn would make it more useful for reducing actual customer loss.
+
 ### Technologies Used
 
 1. Python
