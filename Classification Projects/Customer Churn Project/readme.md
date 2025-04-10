@@ -92,7 +92,7 @@ Telecom and subscription-based companies often face the challenge of losing cust
 
 **Univariate Analysis :** Checking the Distribution of the Single Feature or Imbalance of the DataSet.
 
-
+![README](https://github.com/saidatascience2023/DataScienceGuidedProject/blob/main/Classification%20Projects/Customer%20Churn%20Project/images/Random-Forest-Classifier-Customer_Churn-ipynb-Colab-04-10-2025_04_58_PM.png)
 
 ### Model Performance
 
