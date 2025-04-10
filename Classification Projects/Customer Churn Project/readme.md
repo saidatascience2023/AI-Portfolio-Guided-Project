@@ -20,7 +20,7 @@ Demographic info about customers – gender, age range, and if they have partner
 
 Telecom and subscription-based companies often face the challenge of losing customers. This project builds a predictive model that classifies customers as **churned** or **not churned** based on their behavior and demographic data.
 
-## Strategy to Solve the Problem
+### Strategy to Solve the Problem
 
 1. **Data Cleaning and Preprocessing**  
   Handle missing values, correct data types, encode categorical variables, and scale features.
@@ -40,7 +40,7 @@ Telecom and subscription-based companies often face the challenge of losing cust
 6. **Deployment**  
   Export trained model and build a simple script or web app for real-time prediction.
 
-## How to Run
+### How to Run
 
 1. Clone the repository  
 2. git clone https://github.com//saidatascience2023/customer-churn-prediction.git
