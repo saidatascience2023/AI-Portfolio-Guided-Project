@@ -70,4 +70,13 @@ Telecom and subscription-based companies often face the challenge of losing cust
 
 5. Streamlit or Flask (optional, for web deployment)
 
+### Future Enhancements
+
+Add deep learning models (e.g., ANN with TensorFlow)
+
+Build an interactive dashboard
+
+Automate retraining with new data
+
+Integrate feedback loop for model improvement
 
