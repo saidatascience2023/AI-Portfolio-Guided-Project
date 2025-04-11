@@ -79,8 +79,8 @@ Contact our support team for any questions.
 Join our interactive sessions and start learning!
 
 ### Contact Us
-Email: contact@saidatascience.com
-Website: www.saidascience.com
+[Email us:] (mailto:contact@saidascience.com)
+[Website:] (https://www.saidascience.com)
 Address: Alberta, Canada.
 
 
