@@ -70,7 +70,7 @@ Get Started
 To get started with any of our training programs, simply reach out to us, and we’ll provide all the details you need to begin your learning journey.
 
 ### How to Enroll:
-Visit our website: **www.saidascience.com**
+Visit our website: **(https://www.saidascience.com)**
 
 Browse our courses and select the program that best fits your learning goals.
 
@@ -79,8 +79,10 @@ Contact our support team for any questions.
 Join our interactive sessions and start learning!
 
 ### Contact Us
-[Email us:] (mailto:contact@saidascience.com)
-[Website:] (https://www.saidascience.com)
+Email us: (mailto:contact@saidascience.com)
+
+Website: (https://www.saidascience.com)
+
 Address: Alberta, Canada.
 
 
