@@ -82,6 +82,3 @@ Email us: (mailto:contact@saidascience.com)
 Website: (https://www.saidascience.com)
 
 Address: Alberta, Canada.
-
-
-
