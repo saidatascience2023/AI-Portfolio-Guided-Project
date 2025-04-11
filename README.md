@@ -1,4 +1,4 @@
-![Readme](https://img.shields.io/badge/readme-OK-green.svg?colorB=00C106) ![commits](https://img.shields.io/badge/commits-53-blue.svg)
+(https://github.com/saidatascience2023/DataScienceGuidedProject/blob/main/Images/thumbnail-bb92b9db-b2a2-4d96-a608-f3fd0977bd4c.jpeg)
 
 # SAI DataScience - AI Training
 Welcome to SAI DataScience! We are a leading provider of Artificial Intelligence (AI) training with over 16 years of expertise in the field. We specialize in developing and delivering comprehensive AI education programs for individuals and corporate teams. Our goal is to empower professionals and students by equipping them with the necessary skills to excel in the ever-evolving AI landscape.
