@@ -2,23 +2,20 @@
 Welcome to SAI DataScience! We are a leading provider of Artificial Intelligence (AI) training with over 16 years of expertise in the field. We specialize in developing and delivering comprehensive AI education programs for individuals and corporate teams. Our goal is to empower professionals and students by equipping them with the necessary skills to excel in the ever-evolving AI landscape.
 
 ### Table of Contents
-[Text you want to display](URL)
 
 [About Us](https://saidatascience.com/about-saidatascience/)
 
-Our Services
+[Individual Training Programs](https://saidatascience.com/data-science-mastery-certification/)
 
-Individual Training Programs
+(Corporate Training Programs)[https://saidatascience.com/corporate-ai-training/]
 
-Corporate Training Programs
+[Why Choose Us](https://saidatascience.com/about-saidatascience/)
 
-Why Choose Us
+[AI Blog](https://saidatascience.com/ai-for-everyone-a-beginners-guide-to-artificial-intelligence/)
 
-AI Blog
+[Interview Preparation](https://saidatascience.com/ai-technical-interview-resources/)
 
-Interview Preparation
-
-Contact Us
+[Contact Us](https://saidatascience.com/contact-us-now/)
 
 ### About Us
 SAI DataScience has a long history of providing high-quality AI training. We offer customized courses that cater to both individual learners and organizations looking to enhance their team's skills in AI, machine learning, deep learning, and data science. We aim to provide hands-on training that bridges the gap between theory and practical implementation, empowering students to work on real-world AI projects.
