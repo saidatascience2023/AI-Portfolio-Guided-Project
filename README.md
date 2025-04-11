@@ -4,7 +4,7 @@ Welcome to SAI DataScience! We are a leading provider of Artificial Intelligence
 ### Table of Contents
 [Text you want to display](URL)
 
-[About Us](#https://saidatascience.com/about-saidatascience/)
+[About Us](https://saidatascience.com/about-saidatascience/)
 
 Our Services
 
