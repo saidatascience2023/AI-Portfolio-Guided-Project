@@ -58,6 +58,9 @@ PaymentMethod: The method the customer uses to pay (Electronic check/Mailed chec
 
 **Churn**Indicates whether the customer has churned (1: Yes, 0: No).
 
+### DataSet Source : 
+[Download the Dataset](https://kaggle.com)
+
 ### Problem Statement or Goal 
 
 Telecom and subscription-based companies often face the challenge of losing customers. This project builds a predictive model that classifies customers as **churned** or **not churned** based on their behavior and demographic data.
