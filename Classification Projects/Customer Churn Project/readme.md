@@ -100,7 +100,7 @@ Telecom and subscription-based companies often face the challenge of losing cust
 
 ### Model Performance
 
-1. Model Used: Random Forest Classifier:
+1. Model Used: Logistic Regression:
 
 2. Accuracy: 85%
 
