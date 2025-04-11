@@ -7,7 +7,7 @@ Welcome to SAI DataScience! We are a leading provider of Artificial Intelligence
 
 [Individual Training Programs](https://saidatascience.com/data-science-mastery-certification/)
 
-(Corporate Training Programs)[https://saidatascience.com/corporate-ai-training/]
+[Corporate Training Programs](https://saidatascience.com/corporate-ai-training/)
 
 [Why Choose Us](https://saidatascience.com/about-saidatascience/)
 
